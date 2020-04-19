@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="flink_user_behavior_analysis,hot_goods_analysis,login_fail_detect,mark_analysis,order_monitor,page_network_flow,real_time_reconcilication,table_api_and_sql" />
+  </component>
+</project>

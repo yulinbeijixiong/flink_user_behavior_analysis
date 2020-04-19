@@ -1,0 +1,7 @@
+# Project exclude paths
+/hot_goods_analysis/target/
+/login_fail_detect/target/
+/mark_analysis/target/
+/order_monitor/target/
+/page_network_flow/target/
+/real_time_reconcilication/target/
